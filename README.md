@@ -3,10 +3,10 @@
 Design a front-end for an email client that makes API calls to send and receive emails.
 
 ## Specification 
-Check https://cs50.harvard.edu/web/2020/projects/3/mail/
+Visit https://cs50.harvard.edu/web/2020/projects/3/mail/
 
 ## Video
-YouTube https://youtu.be/FQLo7GbbeNk
+Visit https://youtu.be/FQLo7GbbeNk
 
 ### Requirements
 
