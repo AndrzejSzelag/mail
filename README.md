@@ -8,7 +8,8 @@
 🚀 https://cs50.harvard.edu/web/2020/projects/3/mail/
 
 ## Video
-🚀 https://youtu.be/FQLo7GbbeNk
+
+🚀 [VIDEO: Mail application](https://youtu.be/FQLo7GbbeNk)
 
 ### Requirements
 
