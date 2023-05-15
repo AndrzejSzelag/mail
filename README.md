@@ -9,7 +9,7 @@
 
 ## Video
 
-🚀 [VIDEO: Mail application](https://youtu.be/FQLo7GbbeNk)
+🚀 [Mail project on YouTube](https://youtu.be/FQLo7GbbeNk)
 
 ### Requirements
 
