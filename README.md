@@ -15,3 +15,9 @@
 
 * Python 3.11.1
 * Django 4.1.4
+
+* ### How to run? 
+1. Go to the directory which contains "__manage.py__" file
+2. Then type this command: __python manage.py runserver__
+3. In your Web browser use a URL: __http://127.0.0.1:8000/__ or __http://127.0.0.1:8000/login__
+
