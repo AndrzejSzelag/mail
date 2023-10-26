@@ -4,6 +4,18 @@
 
 ✒️ Design a front-end for an email client that makes API calls to send and receive emails.
 
+![_pic0.java](_pic0.png "MAIL - Register")
+
+![_pic1.java](_pic1.png "MAIL - Compose")
+
+![_pic2.java](_pic2.png "MAIL - Inbox")
+
+![_pic3.java](_pic3.png "MAIL - Reply")
+
+![_pic4.java](_pic4.png "MAIL - Archive")
+
+![_pic5.java](_pic5.png "MAIL - Unarchive")
+
 ## Specification 
 🚀 https://cs50.harvard.edu/web/2020/projects/3/mail/
 
